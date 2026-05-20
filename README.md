@@ -2,8 +2,17 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Cristiano de Oliveira Barbosa, tenho 21 anos e sou natural do Rio de Janeiro.  Atualmente, estou cursando Engenharia de Software na Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Cristiano de Oliveira Barbosa, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, curso Engenharia de Software na Estácio e atuo como desenvolvedor front-end, unindo programação, design e criação de conteúdo.
 
+Sou apaixonado por tecnologia, desenvolvimento web e experiências digitais. Compartilho conhecimento através das minhas redes sociais, produzindo conteúdos sobre programação, interfaces e construção de projetos reais para a web.
+
+Além do desenvolvimento, também tenho forte interesse em UI/UX, criação de dashboards, aplicações responsivas e boas práticas de desenvolvimento com Angular, TypeScript e .NET.
+
+## 🌎 Redes e Portfólio
+
+- 📂 GitHub: https://github.com/CristianoB1
+- 🌐 Portfólio: [https://CristianoBarbosa.com](https://portfolio-developer.onrender.com)
+  
 <p align="left"> 
     <a href="https://github.com/CristianoB1?tab=repositories&sort=stargazers">
         <img 
